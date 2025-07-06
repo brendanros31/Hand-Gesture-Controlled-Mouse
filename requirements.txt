@@ -1,0 +1,6 @@
+mediapipe
+cv2
+time
+math
+numpy
+autopy

@@ -1,0 +1,104 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode and other IDE settings
+.vscode/
+.idea/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.env
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Pytype
+.pytype/
+
+# TensorBoard logs
+runs/
+logs/
+
+# DVC or other dataset versioning tools
+.dvc/
+*.dvc
+.cache/
+.cache/*
+
+# Image/Video datasets (you can change to your dataset paths)
+data/
+datasets/
+images/
+videos/
+
+# Model checkpoints and outputs
+checkpoints/
+*.ckpt
+*.h5
+*.pth
+*.pt
+*.onnx
+*.tflite
+
+# Colab and Jupyter artifacts
+*.ipynb
+*.nbconvert.ipynb
+*.nb.html
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Mac/Linux specific
+*.swp
+*.swo

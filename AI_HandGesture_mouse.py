@@ -99,7 +99,7 @@ while True:
         #print(length)
     
         # Checking distance between fingers
-        if length < 20:   # 20 is the length chosen between fingers to consider a Click
+        if length < 15:   # 20 is the length chosen between fingers to consider a Click
             cv2.circle(img, (lineInfo[4],lineInfo[5]), 5, (0,250,0), cv2.FILLED)
 
             # REGISTERING - Click
